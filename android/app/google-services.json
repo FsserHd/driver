@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "211166356684",
+    "project_id": "square-new-d8e68",
+    "storage_bucket": "square-new-d8e68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211166356684:android:9758b8f5877423a9968e69",
+        "android_client_info": {
+          "package_name": "com.thee4square.driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD307r1TTsBbvJ_9ibBwUp4254v5ySHPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211166356684:android:f880e7cae5448e40968e69",
+        "android_client_info": {
+          "package_name": "com.thee4square.userapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD307r1TTsBbvJ_9ibBwUp4254v5ySHPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211166356684:android:ac049e7256675762968e69",
+        "android_client_info": {
+          "package_name": "com.thee4square.vendor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD307r1TTsBbvJ_9ibBwUp4254v5ySHPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
